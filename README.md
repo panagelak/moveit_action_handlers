@@ -19,6 +19,18 @@ This package holds the below custom action servers to interface with MoveIt
     - FlexBe
     - Behavior trees
 
+## Demo Gifs
+
+### Joint space goal / arm home position
+![](data/joints_home.gif)
+### Joint space goal / gripper close
+![](data/joints_gripper.gif)
+### Cartesian Space goal / relative to end effector
+![](data/pose_arm.gif)
+### Cartesian Space goal / relative to end effector 
+### with keeping current end effector orientation during the motion
+![](data/pose_arm_constrained.gif)
+
 ## Prerequisities
 
 **A manipulator which is integrated with MoveIt e.g you can send random valid goals from the RViz plugin**
