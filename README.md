@@ -3,7 +3,8 @@
 ## Collaborators
 
 [Christos Gkournelos](https://github.com/cgkournelos)
-[KOnstantinos Lotsaris](https://github.com/lotsarisk)
+
+[Konstantinos Lotsaris](https://github.com/lotsarisk)
 
 ## Overview
 
