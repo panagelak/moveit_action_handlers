@@ -1,5 +1,10 @@
 # MoveIt Action Servers
 
+## Collaborators
+
+[Christos Gkournelos](https://github.com/cgkournelos)
+[KOnstantinos Lotsaris](https://github.com/lotsarisk)
+
 ## Overview
 
 This package holds the below custom action servers to interface with MoveIt 
