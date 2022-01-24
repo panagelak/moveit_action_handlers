@@ -8,6 +8,8 @@
 
 [Panagiotis Angelakis](https://github.com/panagelak)
 
+[Spyros Koukas](https://github.com/SpyrosKou)
+
 ## Overview
 
 This package holds the below custom action servers to interface with MoveIt 
