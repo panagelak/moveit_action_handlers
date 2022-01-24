@@ -1,10 +1,14 @@
 # MoveIt Action Servers
 
-## Collaborators
+## Contributors
 
 [Christos Gkournelos](https://github.com/cgkournelos)
 
 [Konstantinos Lotsaris](https://github.com/lotsarisk)
+
+[Panagiotis Angelakis](https://github.com/panagelak)
+
+[Spyros Koukas](https://github.com/SpyrosKou)
 
 ## Overview
 
